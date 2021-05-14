@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sharara">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_1_foreground"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_1_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".UI.ResultsActivity"></activity>
+        <activity android:name=".UI.ScoreActivity" />
+        <activity android:name=".UI.QuestionActivity"></activity>
+        <activity android:name=".UI.SetsActivity" />
+        <activity android:name=".UI.CategoryActivity" />
+        <activity android:name=".Regestration.LoginActivity" />
+        <activity android:name=".Regestration.ForgetPassword" />
+        <activity android:name=".Regestration.SignUpActivity" />
+        <activity android:name=".UI.Intro_app" />
+        <activity android:name=".UI.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UI.MainActivity" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="level">Level</string>
+    <string name="score">Score</string>
+    <string name="start_challenge">Start Challenge now</string>
+    <string name="Your_Result">Results</string>
+
+    <string name="username">Username</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="add">Add</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="title_1">Wide Imagination</string>
+    <string name="title_2">Personal development</string>
+    <string name="title_3">Reducing stress</string>
+    <string name="description_1">Reading develops the mind and creates new ideas of its kind, as different cultures and perspectives that the reader view arouse a wide imagination.</string>
+    <string name="description_2">Gain a lot of experience from the experiences and experiences of others in various fields of life and science.</string>
+    <string name="description_3">Reading has a clear and direct effect on getting rid of stress and tension.</string>
+
+</resources>

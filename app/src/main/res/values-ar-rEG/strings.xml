@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="level">المستوى</string>
+    <string name="score">النتيجة</string>
+    <string name="start_challenge">ابدأ التحدى الان</string>
+    <string name="Your_Result">نتيجتك</string>
+
+    <string name="username">اسم المستخدم</string>
+    <string name="address">العنوان</string>
+    <string name="age">العمر</string>
+    <string name="add">اضافه</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="password">الرقم السري</string>
+    <string name="title_1">الخيال الواسع</string>
+    <string name="title_2">تنمية القدرات الشخصية</string>
+    <string name="title_3">الحد من التوتر</string>
+    <string name="description_1">تعمل القراءة على تنمية العقل ، وابتكار أفكار جديدة من نوعها ، إذ تثير الثقافات المختلفة ، ووجهات النظر التي يطلع عليها القارئ على اكتسابه خيالا واسعا</string>
+    <string name="description_2">اكتساب كثير من الخبرات من تجارب وخبرات الآخرين في مجالات متنوعة في الحياة والعلوم</string>
+    <string name="description_3">للقراءة أثر واضح ومباشر على التخلص من الاجهاد ، والتوتر </string>
+
+
+</resources>
